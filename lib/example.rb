@@ -12,3 +12,4 @@ puts phrase
 puts phrase
 puts phrase 
 end
+greeting_ten
